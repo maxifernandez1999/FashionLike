@@ -2,7 +2,7 @@
 
 PROYECTO: FASHION LIKE 
 
-Red social para imágenes de periféricos. 
+Red social de imágenes de periféricos. 
 
 Descripción del proyecto: 
 
