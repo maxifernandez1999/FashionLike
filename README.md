@@ -2,19 +2,15 @@
 
 PROYECTO: FASHION LIKE 
 
-Red social para indumentaria de moda. 
-
-#idea1 
+Red social para imágenes de periféricos. 
 
 Descripción del proyecto: 
 
-Es una nueva red social donde se van publicando diferentes estilos de indumentaria y los usuarios pueden votar si les gusta o no el diseño.
+Es una nueva red social donde se van publicando diferentes estilos de periféricos y los usuarios pueden votar si les gusta o no el diseño.
 
 Objetivo: 
 
-Conocerl el comportamiento de elección de los usuarios para la creación de futuros diseños de indumentaria de la compañía.
-
-La información es valiosa por lo que debe ser fácil de conseguir y segura en su persistencia en la plataforma. 
+Conocer el comportamiento de elección de los usuarios para la creación de futuros diseños de periféricos de la compañía.
 
 Requisitos: 
 
@@ -42,30 +38,3 @@ Páginas a desarrollar:
 
 -Panel de gestión de posteos (sólo con acceso de administrador) 
 
-![](Aspose.Words.efb3e528-bb7b-422c-b810-b854e60ad470.001.png)![](Aspose.Words.efb3e528-bb7b-422c-b810-b854e60ad470.002.png)
-
-TRABAJO PARA UX: Research y prototipado. 
-
-TRABAJO PARA DISEÑO/UI: Diseñar cada página. 
-
-TRABAJO PARA FRONTEND: Maquetación de cada página. 
-
-TRABAJO PARA BACKEND: 
-
-Creación de la base de datos. 
-
-Creación de la lógica y control de los datos. (API o con motor de plantillas) 
-
-TRABAJO PARA QA/TESTING: 
-
-Crear tests para validar los errores en cada página. 
-
-TRABAJO PARA DEVOPS: 
-
-Crear un deploy para 3 ambientes: Dev, Staging y Production. 
-
-Al terminar: 
-
-Suma el proyecto a tu portfolio. 
-
-Comparte tu trabajo y ayudá a otros a sumar tu aporte utilizando el hashtag #idea1 Cuenta tu experiencia en las redes para demostrar tus logros.
