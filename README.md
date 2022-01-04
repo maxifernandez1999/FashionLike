@@ -1,10 +1,10 @@
 ﻿![](Aspose.Words.efb3e528-bb7b-422c-b810-b854e60ad470.001.png)![](Aspose.Words.efb3e528-bb7b-422c-b810-b854e60ad470.002.png)
 
-PROYECTO: FASHION LIKE 
+###PROYECTO: FASHION LIKE 
 
-Red social de imágenes de periféricos. 
+##Red social de imágenes de periféricos. 
 
-Descripción del proyecto: 
+#Descripción del proyecto: 
 
 Es una nueva red social donde se van publicando diferentes estilos de periféricos y los usuarios pueden votar si les gusta o no el diseño.
 
