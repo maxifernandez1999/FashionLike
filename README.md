@@ -8,11 +8,11 @@
 
 Es una nueva red social donde se van publicando diferentes estilos de periféricos y los usuarios pueden votar si les gusta o no el diseño.
 
-Objetivo: 
+#Objetivo: 
 
 Conocer el comportamiento de elección de los usuarios para la creación de futuros diseños de periféricos de la compañía.
 
-Requisitos: 
+#Requisitos:
 
 -Los usuarios deben poder loguearse con email y contraseña.
 
