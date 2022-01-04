@@ -28,7 +28,7 @@ Conocer el comportamiento de elección de los usuarios para la creación de futu
 
 -Debo poder ver el detalle de cada posteo con sus estadísticas.
 
-Páginas a desarrollar: 
+#Páginas a desarrollar:
 
 -Login 
 
