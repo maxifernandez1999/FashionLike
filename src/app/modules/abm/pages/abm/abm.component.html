@@ -1,0 +1,15 @@
+<div  class="login-box">
+	<img src="../../../../../assets/redragon.jpeg" class="avatar" alt="Avatar Image">
+	<h1 class="heading"> Agrege su <span>imagen</span> </h1>
+	<form>
+
+		<label for="nameImage">name Image</label>
+		<input [(ngModel)]="nameImage" name="nameImage" type="email" placeholder="Ingrese el nombre de su imagen">
+
+	
+            <label for="name">Image</label>
+            <input type="file" (click)="getFile($event)" placeholder="Ingrese su imagen">
+
+		<input type="button" (click)="UploadFiles()" value="Agregar imagen">
+	</form>
+</div>

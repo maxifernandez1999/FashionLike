@@ -1,0 +1,17 @@
+<div class="login-box">
+	<img src="../../../../../assets/redragon.jpeg" class="avatar" alt="Avatar Image">
+	<h1 class="heading"> fashion like <span>Registro</span> </h1>
+	<form>
+		<!-- USERNAME INPUT -->
+		<label for="username">nombre</label>
+		<input [(ngModel)]="name" name="name" type="text" placeholder="Ingrese su nombre">
+            <!-- EMAIL INPUT -->
+		<label for="username">email</label>
+		<input [(ngModel)]="email" name="email" type="email" placeholder="Ingrese su email">
+		<!-- PASSWORD INPUT -->
+		<label for="password">contraseña</label>
+		<input [(ngModel)]="password" name="password" type="password" placeholder="Ingrese su contraseña">
+		<input type="button" (click)="register()" value="Crear Cuenta">
+		<a (click)="redirect()">Ya tengo una cuenta!</a><br>
+	</form>
+</div>
